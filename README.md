@@ -2,6 +2,8 @@
 live preview
 https://asep38.github.io/game-tictactoe.github.io/
 
+<img src="https://user-images.githubusercontent.com/112145050/255478004-7b74d0c4-6421-4828-b786-88113e6e708c.png" />
+
 # Deskripsi
 Tic-tac-toe, juga dikenal sebagai "Xs and Os" atau "Noughts and Crosses" di beberapa wilayah, adalah permainan papan klasik yang dimainkan oleh dua pemain dengan tanda yang berbeda, biasanya "X" dan "O", pada sebuah papan 3x3. Tujuan permainan ini adalah untuk mencoba menempatkan tiga tanda yang sama secara berurutan baik horizontal, vertikal, atau diagonal di papan permainan. Permainan ini berakhir dengan imbang jika papan penuh tanpa ada tiga tanda yang sama berurutan.
 
